@@ -8,7 +8,7 @@ Reference Link: https://docs.docker.com/compose/install/
 
 -----------------------------------------------------------------------------------------
 2)Clone a repository:
- git clone git@gitlab.cognologix.in:wasim.khan1/debezium-kafka-mysql.git
+ git clone git@github.com:wasimdevops/debezium-kafka-mysql.git
 
 -----------------------------------------------------------------------------------------
 3)Specify the debezium version and run docker compose setup:
